@@ -87,7 +87,7 @@ dependencies {
     implementation(AppDependencies.kotlinCoRoutinesCore)
     implementation(AppDependencies.jakeWhartonCoRoutineAdapter)
     implementation(AppDependencies.appcompat)
-    implementation(AppDependencies.material)
+    implementation(AppDependencies.material3)
     implementation(AppDependencies.coreKtx)
 
     kapt(AppDependencies.lifeCycleCompiler)

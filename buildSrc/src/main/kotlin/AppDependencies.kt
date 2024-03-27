@@ -10,7 +10,7 @@ object AppDependencies {
     // General Android frameworks for UI
     const val appcompat = "androidx.appcompat:appcompat:${Versions.appCompat}"
     const val fragmentKTX = "androidx.fragment:fragment-ktx:${Versions.fragmentKTX}"
-    const val material = "com.google.android.material:material:${Versions.material}"
+    const val material3 = "androidx.compose.material3:material3:${Versions.material}"
     const val coreKtx = "androidx.core:core-ktx:${Versions.coreKTX}"
     const val legacySupport = "androidx.legacy:legacy-support-v4:${Versions.support}"
     const val gson = "com.google.code.gson:gson:${Versions.gson}"
